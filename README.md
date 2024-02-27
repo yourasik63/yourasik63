@@ -5,7 +5,10 @@
 
 ### Languages and tools
 ![1C](https://img.shields.io/badge/-1C-FFFF00)
-![POSTMAN](https://img.shields.io/badge/-Postman-FFA500)
+![POSTMAN](https://img.shields.io/badge/-Postman-A52A2A)
 ![GIT](https://img.shields.io/badge/-Git-800000)
 ![HelpDesk](https://img.shields.io/badge/-HelpDesk-808080)
-![SQL](https://img.shields.io/badge/-SQL-008000)
+![SQL](https://img.shields.io/badge/-SQL-FFFFFF)
+![Fiddler](https://img.shields.io/badge/-Fiddler-008000)
+![DevTools](https://img.shields.io/badge/-DevTools-FFA500)
+![VSCODE](https://img.shields.io/badge/-VisualStudio-00FFFF)
