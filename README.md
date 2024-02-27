@@ -17,6 +17,5 @@
 
 ### Написать мне
 [![Telegram](https://img.shields.io/badge/-Telegram-00FFFF?style-for-the-badge&logo=Telegram)](https://t.me/ogurecogurcov)
-
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style-for-the-badge&logo=Gmail)](mailto:yourasik63@gmail.com)
 
