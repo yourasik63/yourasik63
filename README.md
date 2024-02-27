@@ -5,11 +5,11 @@
 
 
 ### Languages and tools
-![1C](https://img.shields.io/badge/-1C-FFFF00)
-![POSTMAN](https://img.shields.io/badge/-Postman-A52A2A)
-![GIT](https://img.shields.io/badge/-Git-800000)
-![HelpDesk](https://img.shields.io/badge/-HelpDesk-808080)
-![SQL](https://img.shields.io/badge/-SQL-FFFFFF)
-![Fiddler](https://img.shields.io/badge/-Fiddler-008000)
-![DevTools](https://img.shields.io/badge/-DevTools-FFA500)
-![VSCODE](https://img.shields.io/badge/-VisualStudio-00FFFF)
+![1C](https://img.shields.io/badge/-1C-FFFF00?style-for-the-badge&logo=1C)
+![POSTMAN](https://img.shields.io/badge/-Postman-A52A2A?style-for-the-badge&logo=Postman)
+![GIT](https://img.shields.io/badge/-Git-800000?style-for-the-badge&logo=Git)
+![HelpDesk](https://img.shields.io/badge/-HelpDesk-808080?style-for-the-badge&logo=Helpdesk)
+![SQL](https://img.shields.io/badge/-SQL-FFFFFF?style-for-the-badge&logo=SQL)
+![Fiddler](https://img.shields.io/badge/-Fiddler-008000?style-for-the-badge&logo=Fiddler)
+![DevTools](https://img.shields.io/badge/-DevTools-FFA500?style-for-the-badge&logo=DevTools)
+![VSCODE](https://img.shields.io/badge/-VisualStudio-00FFFF?style-for-the-badge&logo=V)
