@@ -12,4 +12,9 @@
 ![SQL](https://img.shields.io/badge/-SQL-FFFFFF?style-for-the-badge&logo=SQL)
 ![Fiddler](https://img.shields.io/badge/-Fiddler-008000?style-for-the-badge&logo=Fiddler)
 ![DevTools](https://img.shields.io/badge/-DevTools-FFA500?style-for-the-badge&logo=DevTools)
-![VSCODE](https://img.shields.io/badge/-VisualStudio-00FFFF?style-for-the-badge&logo=V)
+![VSCODE](https://img.shields.io/badge/-VisualStudio-00FFFF?style-for-the-badge&logo=VScode)
+
+
+### Написать мне
+[![Telegram](https://img.shields.io/badge/-Telegram-00FFFF?style-for-the-badge&logo=Telegram)](https://t.me/ogurecogurcov)
+
